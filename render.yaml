@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rgshowsapi
+    env: docker
+    repo: https://github.com/RISHAB-CREATOR/RgShowsApi.git
+    branch: main
